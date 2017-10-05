@@ -1,4 +1,10 @@
-# Credit Check
+card_number = "4929735477250543"
 
-This is a starter repo for Credit Check, a Turing School Back End Mod 1 project described in more detail [here](http://backend.turing.io/module1/projects/credit_check).
+valid = false
 
+
+# Your Luhn Algorithm Here
+
+# Output
+## If it is valid, print "The number is valid!"
+## If it is invalid, print "The number is invalid!"
